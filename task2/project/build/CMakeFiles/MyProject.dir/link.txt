@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/MyProject.dir/C/main.cpp.o -o ../bin/MyProject  -Wl,-rpath,/Users/aleksei_orlov/Documents/make_and_cmake/project/build/B B/libMyLibrary.dylib 

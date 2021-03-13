@@ -1,0 +1,7 @@
+/Users/aleksei_orlov/Documents/make_and_cmake/project/build/CMakeFiles/rebuild_cache.dir
+/Users/aleksei_orlov/Documents/make_and_cmake/project/build/CMakeFiles/edit_cache.dir
+/Users/aleksei_orlov/Documents/make_and_cmake/project/build/CMakeFiles/MyProject.dir
+/Users/aleksei_orlov/Documents/make_and_cmake/project/build/CMakeFiles/RunGenerator.dir
+/Users/aleksei_orlov/Documents/make_and_cmake/project/build/B/CMakeFiles/rebuild_cache.dir
+/Users/aleksei_orlov/Documents/make_and_cmake/project/build/B/CMakeFiles/edit_cache.dir
+/Users/aleksei_orlov/Documents/make_and_cmake/project/build/B/CMakeFiles/MyLibrary.dir
